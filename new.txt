@@ -9,3 +9,10 @@ git add . saves your contents/files in virtual storage/repo
 git push origin main
 git pull
 git commit -m "fixed bugs"
+
+
+git clone
+git add . saves your contents/files in virtual storage/repo
+git push origin main
+git pull
+git commit -m "fixed bugs"
